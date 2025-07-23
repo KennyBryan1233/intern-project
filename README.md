@@ -24,6 +24,7 @@ python iris_classification.py
 - Text classification
 - Model training & evaluation
 - Regression and classification algorithms
+  
 ✅ Step 3: Run & Confirm
 Once you’ve added at least one file (house_price_prediction.py), open a new terminal in VS Code (Ctrl + `) and run:
 
